@@ -2,8 +2,7 @@
 
 /* i made this on code blocks
    number range (1-5) and you have 5 choice of numbers to enter
-   after that you get points i manually assign points 5 assign at declaration stage
-   by own
+   after that you get total_counts of number you enter below 5 number
 */
 
 
